@@ -1,16 +1,38 @@
-## Hi there 👋
+**About**
+---
+Hi, I'm **Sayesha Kaushal**.
 
-<!--
-**sayeshakaushal/sayeshakaushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Computer Science student specializing in **Cybersecurity**, curently exploring offensive security, as well as defensive security while strengthening my programming and problem-solving fundamentals.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently Learning**
+---
+- Offensive Security
+- Linux
+- Git and GitHub
+- SQL
+- Networking
+- Data Structures & Algorithms
+
+---
+
+**Languages**
+---
+```text
+C++ • Python • SQL
+````
+**Security & Tools**
+```text
+ • Linux
+````
+
+---
+
+**Current Goals**
+---
+- Learn Security Tools
+- Gain essential skills for CTF's & Bug Bounties
+- Build A Security Home Lab 
+
+
